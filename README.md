@@ -3,4 +3,4 @@ This is a visualization of API integration with 3rd party APIs, taking inspirati
 ==> See the page at [https://ogbabydiesal.github.io/weather-song/](https://ogbabydiesal.github.io/weather-song/)
 
 
-
+![Weather Visualization](images/weather.jpg)
