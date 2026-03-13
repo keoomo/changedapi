@@ -1,10 +1,7 @@
 @font-face {
   font-family: "Momo Signature";
-  src: url("fonts/MomoSignature.ttf") format("truetype");
-}
-
-.momo{
-  font-family: "Momo Signature", cursive;
+  src: url("./fonts/MomoSignature.ttf") format("truetype");
+  font-display: swap;
 }
 
 html, body {
