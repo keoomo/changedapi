@@ -1,4 +1,4 @@
-#**About**
+# **About**
 
 This is a visualization of API integration with 3rd party APIs, taking inspiration from @ogbabydiesal, and creating a Visual Crossing Weather API from RapidAPI 
 
