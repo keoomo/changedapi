@@ -1,6 +1,15 @@
+@font-face {
+  font-family: "Momo Signature";
+  src: url("fonts/MomoSignature.ttf") format("truetype");
+}
+
+.momo{
+  font-family: "Momo Signature", cursive;
+}
+
 html, body {
   color:rgb(34, 35, 43);
-  font-family: "Helvetica";
+  font-family: "Momo Signature", serif;
   background: rgb(114, 218, 250);
   font-size:12px;
   border-width: 30px;
